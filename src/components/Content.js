@@ -6,7 +6,7 @@ function Content(){
 
     return(
         <div>
-            <label className="label" for="name">
+            <label className="label" htmlFor="name">
                 Enter name:
             </label>
             <input id="name" type="text" placeholder="type your name in here" />
